@@ -1,0 +1,10 @@
+* {
+    font-family: monospace;
+    font-weight: 300;
+    background-color: lightgrey;    
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+}
